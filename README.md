@@ -2,9 +2,8 @@
 
 ## Endpoints description
 
-**Title**
+**Login**
 ----
-  Login
 
 * **URL**
 
@@ -45,9 +44,8 @@
   
   
   
-  **Title**
+  **My submitted documents**
 ----
-  My submitted documents
 
 * **URL**
 
@@ -113,10 +111,9 @@
   
 
  
-  **Title**
+  **My pending documents**
 ----
-  My pending documents
-
+ 
 * **URL**
 
   /documents/pending
@@ -168,9 +165,9 @@
   
 
  
-  **Title**
+  **Sign document**
 ----
-   Sign document
+   
 
 * **URL**
 
