@@ -2,7 +2,7 @@
 
 ## Endpoints description
 
-**Login**
+  **Login**
 ----
 
 * **URL**
