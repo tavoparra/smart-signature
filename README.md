@@ -35,8 +35,8 @@
 
   ```json
   {
-    username: 'fulanito',
-    password: 'XXXXXXXXX'
+    username: "fulanito",
+    password: "XXXXXXXXX"
   }
   ```
 
